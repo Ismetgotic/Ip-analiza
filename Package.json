@@ -1,0 +1,13 @@
+{
+  "name": "ip-analiza",
+  "version": "1.0.0",
+  "description": "Aplikacija za analizu IP adrese",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.5.0"
+  }
+}
